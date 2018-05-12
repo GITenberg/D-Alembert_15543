@@ -1,0 +1,35 @@
+_repo: D-Alembert_15543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bertrand, Joseph
+    aliases:
+    - Bertrand, Joseph Louis François
+    - Bertrand, J. (Joseph)
+    - Bertrand, Joseph Louis Francois
+    birthdate: 1822
+    deathdate: 1900
+    gutenberg_agent_id: '6114'
+    url: http://www.gutenberg.org/2009/agents/6114
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Louis_François_Bertrand
+description: ''
+gutenberg_bookshelf:
+- Biographies
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15543'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 18th century -- Biography'
+- !lcsh 'Alembert, Jean Le Rond d'', 1717-1783'
+- !lcc 'B'
+title: D'Alembert
+url: http://www.gutenberg.org/ebooks/15543
