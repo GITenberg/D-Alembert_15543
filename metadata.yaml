@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6114
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Louis_François_Bertrand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15543#D-Alembert
 gutenberg_bookshelf:
 - Biographies
 - FR Biographie, Mémoires, Journal intime, Correspondance
